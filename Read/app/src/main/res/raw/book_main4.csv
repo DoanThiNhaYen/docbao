@@ -1,0 +1,175 @@
+STT	Họ và tên	Giới tính (Nam/Nữ)	"Size áo (S,M,L,XL, XXL)"	Lớp
+1	Hà Võ Quỳnh Trâm	Nữ	L	K40 A
+2	Nguyễn Phương Nam	Nam	XL	K40 A
+3	Ngô Xuân Lộc	Nam	M	K40 A
+4	Nguyễn Minh Vươn	Nam	M	K40 A
+5	Lưu Văn Thịnh	Nam	L	K40 A
+6	Nguyễn Văn Hải	Nam	XL	K40 A
+7	Phan Phúc Thịnh	Nam	XL	K40 A
+8	Hồ Văn Phúc	Nam	L	K40 A
+9	Nguyễn Văn Đổng	Nam	L	K40 A
+10	Nguyễn Thị Ngân	Nữ	XL	K40 A
+11	Bùi Thị Kim Qua	Nữ	L	K40 A
+12	Trần Ngọc Nghĩa	Nam	M	K40 A
+13	Huỳnh Tấn Phát	Nam	XL	K40 A
+14	Huỳnh Nguyễn Anh Việt	Nam	L	K40 A
+15	Nguyễn Thị Thu Hiền	Nữ	M	K40 A
+16	Nguyễn Minh Thi	Nam	XL	K40 A
+17	Nguyễn Huy Hoàng	Nam	XXL	K40 A
+18	Tô Thị Kiều Oanh	Nữ	XXL	K40 A
+19	Phạm Vũ Minh Đức	Nam	XL	K40 A
+20	Huỳnh Đông Dương	Nam	L	K40 A
+21	Nguyễn Chí Thạch	Nam	L	K40 A
+22	Lưu Đức Mạnh	Nam	M	K40 A
+23	Võ lê trung chiến	Nam	XL	K40 A
+24	Hồ Xuân Long	Nam	M	K40 A
+25	Trần Đắc Kỳ	Nam	L	K40 A
+26	Phan Thanh Nhật	Nam	L	K40 A
+27	Nguyễn Khắc Mừng	Nam	M	K40 A
+28	Lê Văn Lợi	Nam	L	K40 A
+29	Đào Văn Lợi	Nam	M	K40 A
+30	Phạm Thúy Phương	Nữ	L	K40 A
+31	Trần Thái Nguyên	Nam	M	K40 A
+32	Nguyễn Văn Hiếu	Nam	L	K40 A
+33	Nguyễn đức thanh hoàn	Nam	XL	K40 A
+34	Nguyễn Thị Kiều Duyên	Nữ	S	K40 A
+35	Lê Văn Tường	Nam	M	K40 A
+36	Nguyễn Công Thành	Nam	M	K40 A
+37	A Lê Joanh	Nam	M	K40 B
+38	Cao Thành Nhân	Nam	L	K40 B
+39	Đặng Hoàng Lợi	Nam	M	K40 B
+40	Đặng Ngọc Vũ	Nam	XXL	K40 B
+41	Đào Văn Tiến	Nam	L	K40 B
+42	Đinh Văn Pháp	Nam	M	K40 B
+43	Đỗ Công Phúc	Nam	M	K40 B
+44	Đỗ Duy Phương	Nam	L	K40 B
+45	Đỗ Văn Khuyên	Nam	M	K40 B
+46	Đoàn Phi Vũ	Nam	M	K40 B
+47	Hồ Hữu Tín	Nam	L	K40 B
+48	Huỳnh Sanh Ngân	Nam	XL	K40 B
+49	La Thị Thanh thuận	Nữ	M	K40 B
+50	Lê Công Hội	Nam	XL	K40 B
+51	Lê Kim Hương	Nữ	XL	K40 B
+52	Lê Thị Kim Hương	Nữ	XXL	K40 B
+53	Lê Việt Khánh	Nam	L	K40 B
+54	Mạc Thông Trong	Nam	M	K40 B
+55	Mai Thanh Phong	Nam	L	K40 B
+56	Nguyễn Công Tài	Nam	M	K40 B
+57	Nguyễn Đăng Nhật	Nam	M	K40 B
+58	Nguyễn Đức Chinh	Nam	XL	K40 B
+59	Nguyễn Dương Thế Vinh	Nam	M	K40 B
+60	Nguyễn Hữu Đạt	Nam	M	K40 B
+61	Nguyễn Hữu Thắng	Nam	XL	K40 B
+62	Nguyễn Minh Thiện	Nam	L	K40 B
+63	Nguyễn Minh Tiến	Nam	XL	K40 B
+64	Nguyễn Ngọc Khánh	Nam	M	K40 B
+65	Nguyễn Ngọc Thiện	Nam	L	K40 B
+66	Nguyễn Quốc Bin	Nam	S	K40 B
+67	Nguyễn Tấn Nhị	Nam	S	K40 B
+68	Nguyễn Thái Bình	Nam	XXL	K40 B
+69	Nguyễn Thị Thảo	Nữ	M	K40 B
+70	Nguyễn Thị Mỹ Liêm	Nữ	M	K40 B
+71	Nguyễn Thị Tường Vi	Nữ	S	K40 B
+72	Nguyễn Trần Quốc Cường	Nam	XXL	K40 B
+73	Nguyễn Trùng Dương	Nam	M	K40 B
+74	Nguyễn Trung Hiếu	Nam	L	K40 B
+75	Nguyễn Trung Nguyên	Nam	M	K40 B
+76	Nguyễn Trường Chinh	Nam	XXL	K40 B
+77	Nguyễn Trường Lâm	Nam	L	K40 B
+78	Nguyễn Văn Lâm	Nam	L	K40 B
+79	Nhữ Mạnh Cần	Nam	M	K40 B
+80	Phạm Thành Phúc	Nam	L	K40 B
+81	Phạm Thị Như Hậu	Nữ	L	K40 B
+82	Phan Hồng Thái Sơn	Nam	XL	K40 B
+83	Phan Thị Phúc	Nữ	S	K40 B
+84	Tăng Khắc Hiếu	Nam	M	K40 B
+85	Trần Anh Tuấn	Nam	L	K40 B
+86	Trần Đức Tấn	Nam	L	K40 B
+87	Trần Duy Phương	Nam	XL	K40 B
+88	Trần Hùng Thanh	Nam	XL	K40 B
+89	Trần Hữu Trực	Nam	L	K40 B
+90	Trần Quang Khang	Nam	L	K40 B
+91	Trần Quang Trường	Nam	M	K40 B
+92	Trần Tấn Đạt	Nam	L	K40 B
+93	Trần Thái Minh Trí	Nam	M	K40 B
+94	Trần Thái Nguyên	Nam	L	K40 B
+95	Trần Thị Phương Thảo	Nữ	S	K40 B
+96	Trịnh Ngọc Hiếu	Nam	M	K40 B
+97	Văn Công Phú	Nam	XL	K40 B
+98	Võ Hoàng Huy	Nam	L	K40 B
+99	Võ Hương	Nam	XL	K40 B
+100	Võ Ly Va	Nam	M	K40 B
+101	Võ Sự	Nam	L	K40 B
+102	Võ Tấn Phong	Nam	XL	K40 B
+103	Võ Thị Mỹ Linh	Nữ	M	K40 B
+104	Võ Thị Thao	Nữ	L	K40 B
+105	Võ Văn Bình Phước	Nam	XXL	K40 B
+106	Huỳnh Nguyễn Quang Huy	Nam	XXL	K40 C
+107	Lê Quốc Đạt	Nam	L	K40 C
+108	Phan Thị Thu	Nữ	L	K40 C
+109	Ngô Trịnh Nguyên	Nam	L	K40 C
+110	Bùi Thị Huyền Trang	Nữ	L	K40 C
+111	Lê Đình Nghĩa	Nam	L	K40 C
+112	Hồ Hoàn Hảo	Nam	L	K40 C
+113	Nguyễn Chí Hòa	Nam	L	K40 C
+114	Hoàng Văn Tới	Nam	L	K40 C
+115	Phạm Quốc Nhật	Nam	L	K40 C
+116	Phạm Minh Tây	Nam	L	K40 C
+117	Nguyễn Ánh Ngọc	Nữ	M	K40 C
+118	Tăng Thị Thúy Vân	Nữ	XL	K40 C
+119	Phạm Anh Quốc	Nam	L	K40 C
+120	Lê Hoàng Tín	Nam	L	K40 C
+121	Nguyễn Thành Nhật	Nam	L	K40 C
+122	Trương Quốc Đạt	Nam	XL	K40 C
+123	Nguyễn Quốc Nam	Nam	XL	K40 C
+124	Bùi Nguyễn Hoàng Việt 	Nam	L	K40 C
+125	Đinh Văn Pháp	Nam	L	K40 C
+126	Lê Văn Vũ	Nam	XXL	K40 C
+127	Cù Phước Khánh	Nam	XL	K40 C
+128	Lê Đức Thành	Nam	L	K40 C
+129	Hồ Ngọc Thanh	Nam	M	K40 C
+130	Phạm Minh Trung	Nam	M	K40 C
+131	Phạm Duy Nam	Nam	XL	K40 C
+132	Nguyễn Công Thiện	Nam	L	K40 C
+133	Huỳnh Đức Duy	Nam	M	K40 C
+134	Lê Văn Biển	Nam	L	K40 C
+135	Lê Văn Tri	Nam	L	K40 C
+136	Đặng Duy Khoa	Nam	L	K40 C
+137	Võ Hoài Trung	Nam	L	K40 C
+138	Phạm Hữu Tình	Nam	L	K40 C
+139	Trần Sĩ Nguyên	Nam	XL	K40 C
+140	Nguyễn Ngọc Đức	Nam	XL	K40 C
+141	Nguyễn Văn Hiền 	Nam 	M 	K40 C
+142	Nguyễn Chí Tân	Nam	L	K40 C
+143	Nguyễn Đăng Tâm	Nam	M	K40 C
+144	Nguyễn Ngọc Sơn	Nam	L	K40 C
+145	Trần Thế Vỹ	Nam	L	K40 C
+146	Nguyễn Thanh Phong	Nam	XL	K40 C
+147	Quảng Thanh Tiến	Nam	L	K40 C
+148	Nguyễn Thị Phương Ân	Nữ	L	K40 C
+149	Đào Duy Khánh	Nam	L	K40 C
+150	Võ Thị Hằng	Nữ	M	K40 C
+151	Đoàn Thị Nhã Yên	Nữ	S	K40 C
+152	Thái Anh Quốc	Nam	L	K40 C
+153	Trần Quang Huy	Nam	L	K40 C
+154	Huỳnh Hữu Tín	Nam	L	K40 C
+155	Nguyễn Hoàng Quốc Bảo	Nam	L	K40 C
+156	Trần Văn Diện	Nam	L	K40 C
+157	Nguyễn Huỳnh Thanh Tùng	Nam	L	K40 C
+158	Nguyễn Bá Sum	Nam	L	K40 C
+159	Võ Nguyên Quý	Nam	L	K40 C
+160	Đào Nguyên Ngọc Linh	Nam	L	K40 C
+161	Nguyễn Thị Huyền	Nữ	S	SPT K40
+162	Hà Thị Ngọc Trâm	Nữ	XL	SPT K40
+163	Trần Thị Hiếu	Nữ	M	SPT K40
+164	Đỗ Điều	Nam	M	SPT K40
+165	Lê Hồng Khiêm	Nam	XL	SPT K40
+166	Đỗ Nguyễn Huyền Trang	Nữ	M	SPT K40
+167	Nguyễn Thanh Trung	Nam	M	SPT K40
+168	Phanh Ngọc Quý	Nam	XXL	SPT K40
+169	Đỗ Chí Ngà	Nam	XL	SPT K40
+170	Đinh Thị Nguy	Nữ	M	SPT K40
+171	Trần Gia Hân	Nữ	M	SPT K40
+172	Nguyễn Thị Hoài Vỹ	Nữ	XL	SPT K40
+173	Huỳnh Ngọc Tình	Nam	M	SPT K40
+174	Nguyễn Đình Hưng	Nam	XXL	SPT K40

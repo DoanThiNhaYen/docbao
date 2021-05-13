@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item1"
+        android:icon="@drawable/ic_sentiment_dissatisfied_black_24dp"
+        android:title="Trang Chủ" />
+    <item
+        android:id="@+id/item2"
+        android:icon="@drawable/ic_sentiment_neutral_black_24dp"
+        android:title="Giải Trí" />
+    <item
+        android:id="@+id/item3"
+        android:icon="@drawable/ic_sentiment_satisfied_black_24dp"
+        android:title="Giáo Dục" />
+    <item
+        android:id="@+id/item4"
+        android:icon="@drawable/ic_sentiment_satisfied_black_24dp"
+        android:title="Kinh Doanh" />
+    <item
+        android:id="@+id/item5"
+        android:icon="@drawable/ic_sentiment_satisfied_black_24dp"
+        android:title="Thể Thao" />
+    <item
+        android:id="@+id/item6"
+        android:icon="@drawable/ic_sentiment_satisfied_black_24dp"
+        android:title="Pháp Luật" />
+    <item
+        android:id="@+id/item7"
+        android:icon="@drawable/ic_sentiment_satisfied_black_24dp"
+        android:title="Du Lịch" />
+    <item
+        android:id="@+id/item8"
+        android:icon="@drawable/ic_sentiment_satisfied_black_24dp"
+        android:title="Khoa Học" />
+    <item
+        android:id="@+id/item9"
+        android:icon="@drawable/ic_sentiment_satisfied_black_24dp"
+        android:title="Số Hóa" />
+    <item
+        android:id="@+id/item10"
+        android:icon="@drawable/ic_sentiment_satisfied_black_24dp"
+        android:title="Xe" />
+    <item
+        android:id="@+id/item11"
+        android:icon="@drawable/ic_sentiment_satisfied_black_24dp"
+        android:title="Tin Đã Lưu" />
+
+</menu>
